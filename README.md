@@ -4,7 +4,7 @@ Hi 👋 My name is Alberto
 Full Stack Developer
 --------------------
 
-My name is Alberto, I'm 25 years old based in Madrid, Spain, and I dedicate myself to FullStack web development. I specialize in MERN stack(MongoDB, Express, React, Nodejs), but im good at both Frontend and Backend. Frontend: HTML5, CSS3, Typescript, React, SAPUI5, TailwindCSS, SASS, REDUX. Backend: Express, NextJs, SQL, Node.js and MongoDB. I also have a master's degree in Digital Marketing.
+My name is Alberto, I'm 27 years old based in Madrid, Spain, and I dedicate myself to FullStack web development. I specialize in MERN stack(MongoDB, Express, React, Nodejs), but im good at both Frontend and Backend. Frontend: HTML5, CSS3, Typescript, React, SAPUI5, TailwindCSS, SASS, REDUX. Backend: Express, NextJs, SQL, Node.js and MongoDB. I also have a master's degree in Digital Marketing.
 
 * 🌍  I'm based in Spain
 * ✉️  You can contact me at [alberto.enriquez96@gmail.com](mailto:alberto.enriquez96@gmail.com)
