@@ -1,8 +1,13 @@
 <div align="center">
+
+  <img src="assets/coding.gif" width="700px" />
   
-  ![coding](assets/coding.gif)
-  
-  Web developer specialized in frontend and full-stack development using SAP technologies (SAPUI5, SAP CAP) and modern JavaScript frameworks like React and Next.js
+  <h3>👨‍💻 Web Developer | JS/TS + SAP Ecosystem</h3>
+
+  <p>
+    Specialized in frontend and full-stack development using 
+    <strong>SAPUI5</strong>, <strong>SAP CAP</strong>, and modern JavaScript frameworks 
+    like <strong>React</strong> and <strong>Next.js</strong>.
+  </p>
   
 </div>
-
